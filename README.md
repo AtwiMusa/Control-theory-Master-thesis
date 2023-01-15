@@ -1,4 +1,4 @@
-# Master-Thesis in Control of PDEs.
+# Master's thesis in Control of PDEs.
 
 Master 2 in Applied Mathematics at Lebanese International University.
 
