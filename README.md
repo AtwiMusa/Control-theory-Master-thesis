@@ -1,4 +1,6 @@
-# Master-Thesis in the domain of Control of PDEs for the Master 2 in Applied Mathematics at Lebanese International University.
+# Master-Thesis in Control of PDEs.
+
+Master 2 in Applied Mathematics at Lebanese International University.
 
 The title of this thesis is "Stability of a Timoshenko system with local Kevin - Voigt damping"
 
